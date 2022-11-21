@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouhamad Shoubasi</h1>
 <h3 align="center">A Laravel Backend Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=mshoubasi)
+
 - 📫 How to reach me **mhd.shoubasi@gmail.com**
 
 
